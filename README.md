@@ -45,7 +45,7 @@ Below is the schematic generated in Tinkercad:
 ## 🔗 Wokwi Simulation
 Try the interactive simulation of the project here:
 
-[Open in Wokwi](SIMULATION_NOT_READY)
+[Open in Wokwi](https://wokwi.com/projects/478093744858525697)
 
 ---
 ## 🖼️ Project Photo
