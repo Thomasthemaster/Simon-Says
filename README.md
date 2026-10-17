@@ -91,6 +91,8 @@ Watch the project in action + an explanation of the build:
 
 I learned to go back and make my games playable. Since my original code contained 100 max levels of play, which is nearly impossible, I had to go back and reduce it to a manageable amount. Therefore, I think this project has demonstrated my ability to go back and reanalyze my build.
 
+I also learned how to amplify buzzer sound; with an S8050 transistor, 1KΩ Resistor, and a IN4001 Diode. Before, I thought the sound of my passive buzzer was too small, so using the components in my kit, I was able to conjure up this sound amplifier that now makes the buzzer sound way louder.
+
 ---
 
 ## 📜 License
